@@ -5,3 +5,4 @@ Rocchi Pool's Website Improvement Points
 ----whole site needs brand logo photos  -  
 ----chemical page needs links added  -  links added, can't find a link for PolyClear products
 ----can't find link for Vertex Pool Products, old link leads to an HTML 404 page http://www.vertexchemical.com/Products/tabid/55/Default.aspx
+----add actual content to website, add descriptions on accessories page
